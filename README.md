@@ -280,8 +280,8 @@ GitHub: https://github.com/mukhamadsofyan
 Project ini dikembangkan oleh:
 
 * **Mukhamad Sofyan**
-* **Anggota 2**
-* **Anggota 3**
+* **Moh. Ravlindo Saputra**
+* **Febrian Richo Pradana**
 
 ---
 
